@@ -31,7 +31,9 @@
 - [DALL·E를 사용하여 이미지 생성, 수정, 다양화하기(2)](https://teddylee777.github.io/openai/openai-api-tutorial-02/)
 - [Whisper API를 사용하여 TTS, STT 구현하기(3)](https://teddylee777.github.io/openai/openai-api-tutorial-03/)
 
-
+## 🎬 YouTube
+- [OpenAI 의 새로운 기능 Assistant API 완벽히 이해해보기](https://youtu.be/-Wne4a-8RlY)
+- [OpenAI 의 새로운 기능 Assistant API 3가지 도구 활용법](https://youtu.be/BMW1NJkL7Ks)
 
 
 ## 📜 라이선스
